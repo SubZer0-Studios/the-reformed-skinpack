@@ -1,0 +1,24 @@
+{
+  "header": {
+    "name": "The Reformed Skinpack",
+    "description": "",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "uuid": "f9464b23-faf9-405c-83e5-b9a40e2a3852"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "314cff82-364c-424e-ab01-985150654eff"
+    }
+  ],
+  "format_version": 1
+}

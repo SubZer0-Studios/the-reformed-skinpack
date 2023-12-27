@@ -1,0 +1,30 @@
+{
+  "skins": [
+    {
+      "localization_name": "Cubey Headstack w. Present",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "cubeypresentheadstack.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mobster",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missingred.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skier",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missingblue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "missingcyan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missingcyan.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "TheReformedSkinpack",
+  "localization_name": "TheReformedSkinpack"
+}
