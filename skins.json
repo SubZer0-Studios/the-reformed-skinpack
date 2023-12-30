@@ -19,9 +19,15 @@
       "type": "free"
     },
     {
-      "localization_name": "missingcyan",
+      "localization_name": "Painter",
       "geometry": "geometry.humanoid.custom",
       "texture": "missingcyan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gingerbread Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "gingerbreadman.png",
       "type": "free"
     }
   ],
