@@ -29,6 +29,12 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "gingerbreadman.png",
       "type": "free"
+    },
+    {
+      "localization_name": "nullified33",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "nullified.png",
+      "type": "free"
     }
   ],
   "serialize_name": "TheReformedSkinpack",
